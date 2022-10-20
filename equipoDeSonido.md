@@ -1,3 +1,7 @@
+<div align='center'>
+  <img src='https://scontent.faep22-1.fna.fbcdn.net/v/t1.6435-9/80377759_104045371110582_6929049195080843264_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=M4afbiCTIOMAX8hjl8a&_nc_ht=scontent.faep22-1.fna&oh=00_AT-OuZn07Zmg6h4vuee9FXdxklmr7FplZIHy499Zd06dlA&oe=6378C8DC' align='center' height='200px'>
+</div><br/><br/>
+
 # Equipos de Sonido
 
 ---------------------------------
